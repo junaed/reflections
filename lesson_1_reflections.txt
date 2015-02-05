@@ -1,0 +1,7 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+No Thoughts.
+
+How can you use the commands git log and git diff to view the history of files?
+
+No Ans.
