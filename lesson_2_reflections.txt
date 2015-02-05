@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do we need to do it?
 
+No Ans
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
 No Ans.
